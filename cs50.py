@@ -1,3 +1,4 @@
+# to run, type "python filename.py" in terminal 
 print("hi")
 name = input("What's your name? ")
 
@@ -19,7 +20,7 @@ print(f"hello, {name}")
 # [] usually mean optional
 
 z = 1000000
-print(f"{z:,}") #to format large number with commas to seperate by three digits
+print(f"{z:,}") #to format large number with commas to separate by three digits
 
 y = 200/3
 print(f"{y:.2f}") #to round to two decimals
